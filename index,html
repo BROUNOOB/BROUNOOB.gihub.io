@@ -1,0 +1,25 @@
+---
+layout: post
+title: "我的第一篇文章"
+date: 2025-03-28 
+categories: 
+tags: [第一篇, Jekyll]
+---
+
+這是我用 **Jekyll** 建立的第一篇文章！ 🎉
+
+
+- 動漫
+- 電玩
+---
+layout: default
+---
+
+<div class="post">
+  <h1>{{ page.title }}</h1>
+  <p class="date">{{ page.date | date: "%Y-%m-%d" }}</p>
+  <div class="content">
+    {{ content }}
+  </div>
+</div>
+
