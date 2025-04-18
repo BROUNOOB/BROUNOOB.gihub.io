@@ -52,7 +52,8 @@
       text-decoration: none;
       font-weight: bold;
     }
-  </style>
+  </style>![茂野吾郎](https://example.com/maino-goro.jpg)
+
 </head>
 <body>
   <div class="card">
