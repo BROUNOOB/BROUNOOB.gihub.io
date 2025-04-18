@@ -59,7 +59,7 @@
     <img src="https://i.imgur.com/C4dLP02.gif" alt="動漫頭像" class="avatar">
     <h1>你好，我是劉清松</h1>
     <p>🎌 熱愛動漫的前端開發者 / 創作者</p>
-    <p>📺 最喜歡的動畫：《你的名字》、《鬼滅之刃》、《進擊的巨人》</p>
+    <p>📺 最喜歡的動畫：《實教》、《棒球大聯盟》</p>
     <p>🔗 <a href="https://github.com/yourusername" target="_blank">我的 GitHub</a></p>
   </div>
 </body>
