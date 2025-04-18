@@ -52,7 +52,7 @@
       text-decoration: none;
       font-weight: bold;
     }
-  </style>![茂野吾郎](https://raw.githubusercontent.com/myusername/myrepo/main/images/goro.png)
+  </style>
 
 </head>
 <body>
