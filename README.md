@@ -6,8 +6,7 @@
   <title>劉清松的動漫世界</title>
   <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@700&display=swap" rel="stylesheet">
   <style>
-![image](https://github.com/user-attachments/assets/809bb447-9087-4393-8601-4de0b5e5f092)
-   body {
+    body {
       margin: 0;
       padding: 0;
       font-family: 'Noto Sans TC', sans-serif;
@@ -57,6 +56,7 @@
 </head>
 <body>
   <div class="card">
+    <!-- 這裡是头像的圖片 -->
     <img src="https://i.imgur.com/C4dLP02.gif" alt="動漫頭像" class="avatar">
     <h1>你好，我是劉清松</h1>
     <p>🎌 熱愛動漫的前端開發者 / 創作者</p>
@@ -65,4 +65,5 @@
   </div>
 </body>
 </html>
+
 
