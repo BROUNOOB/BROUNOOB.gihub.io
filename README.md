@@ -5,8 +5,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>劉清松的動漫世界</title>
   <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@700&display=swap" rel="stylesheet">
-  <style>
-    body {
+  <style>![茂野吾郎](https://raw.githubusercontent.com/your-username/your-repo/main/images/goro.png)
+   body {
       margin: 0;
       padding: 0;
       font-family: 'Noto Sans TC', sans-serif;
@@ -53,8 +53,6 @@
       font-weight: bold;
     }
   </style>
-![茂野吾郎](https://raw.githubusercontent.com/your-username/your-repo/main/images/goro.png)
-
 </head>
 <body>
   <div class="card">
