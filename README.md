@@ -10,7 +10,7 @@
       margin: 0;
       padding: 0;
       font-family: 'Noto Sans TC', sans-serif;
-      background-image: url('https://i.imgur.com/5RHR6Ku.jpg'); /* ![image](https://github.com/user-attachments/assets/b347f2c6-990f-4ae8-8653-39c0d989c16c)
+      background-image: url('https://i.imgur.com/5RHR6Ku.jpg'); /* ![image](https://github.com/user-attachments/assets/90a854fc-ac36-4467-9585-b825776d160b)
  */
       background-size: cover;
       background-position: center;
@@ -57,7 +57,7 @@
 </head>
 <body>
   <div class="card">
-    <!-- ![image](https://github.com/user-attachments/assets/d5961e82-6378-496d-8f32-725562371928)
+    <!-- ![image](https://github.com/user-attachments/assets/b348ef71-83e8-4c28-ac9a-8d10e2593fed)
  -->
     <img src="https://i.imgur.com/C4dLP02.gif" alt="動漫頭像" class="avatar">
     <h1>你好，我是劉清松</h1>
@@ -67,6 +67,8 @@
   </div>
 </body>
 </html>
+
+
 
 
 
