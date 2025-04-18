@@ -53,6 +53,7 @@
       font-weight: bold;
     }
   </style>
+![茂野吾郎](https://raw.githubusercontent.com/your-username/your-repo/main/images/goro.png)
 
 </head>
 <body>
