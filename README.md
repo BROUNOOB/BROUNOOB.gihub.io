@@ -10,8 +10,8 @@
       margin: 0;
       padding: 0;
       font-family: 'Noto Sans TC', sans-serif;
-      background-image: url('https://i.imgur.com/5RHR6Ku.jpg'); /![image](https://github.com/user-attachments/assets/4a0dba7f-854a-4289-a945-543e9fb8ab58)
-  /
+      background-image: url('https://i.imgur.com/5RHR6Ku.jpg'); /* ![image](https://github.com/user-attachments/assets/b347f2c6-990f-4ae8-8653-39c0d989c16c)
+ */
       background-size: cover;
       background-position: center;
       color: white;
@@ -57,8 +57,8 @@
 </head>
 <body>
   <div class="card">
-    <![image](https://github.com/user-attachments/assets/383cc33d-e65c-4fd7-bfcf-98074e443913)
->
+    <!-- ![image](https://github.com/user-attachments/assets/d5961e82-6378-496d-8f32-725562371928)
+ -->
     <img src="https://i.imgur.com/C4dLP02.gif" alt="動漫頭像" class="avatar">
     <h1>你好，我是劉清松</h1>
     <p>🎌 熱愛動漫的前端開發者 / 創作者</p>
@@ -67,5 +67,6 @@
   </div>
 </body>
 </html>
+
 
 
