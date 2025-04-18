@@ -5,8 +5,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>劉清松的動漫世界</title>
   <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@700&display=swap" rel="stylesheet">
-  <style>![image](https://github.com/user-attachments/assets/342ea3b1-b0a6-4a2f-8b43-b59c6b622908)
-
+  <style>
+![image](https://github.com/user-attachments/assets/809bb447-9087-4393-8601-4de0b5e5f092)
    body {
       margin: 0;
       padding: 0;
