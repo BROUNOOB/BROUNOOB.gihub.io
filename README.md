@@ -7,6 +7,7 @@
   <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@700&display=swap" rel="stylesheet">
   <style>
 ![image](https://github.com/user-attachments/assets/809bb447-9087-4393-8601-4de0b5e5f092)
+    ![茂野吾郎](https://raw.githubusercontent.com/your-username/your-repo/main/images/goro.png)
    body {
       margin: 0;
       padding: 0;
