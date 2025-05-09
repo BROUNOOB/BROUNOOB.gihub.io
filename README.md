@@ -9,7 +9,7 @@
       margin: 0;
       padding: 0;
       font-family: 'Noto Sans TC', sans-serif;
-      background-image: url('https://i.imgur.com/hZSzUkB.jpg'); /* <img src="https://i.imgur.com/jt8HojP.jpg" alt="西螺大橋" class="avatar"> */
+      background-image: url('https://i.imgur.com/jt8HojP.jpg'); /* 西螺大橋圖片 */
       background-size: cover;
       background-position: center;
       color: white;
@@ -27,6 +27,8 @@
       padding: 2em;
       border-radius: 15px;
       max-width: 600px;
+      width: 90%;
+      box-sizing: border-box;
     }
 
     h1 {
@@ -50,12 +52,46 @@
       color: #ffd6e0;
       text-decoration: none;
       font-weight: bold;
+      transition: color 0.3s ease;
+    }
+
+    a:hover {
+      color: #f39c12;
+    }
+
+    /* Responsive Design */
+    @media (max-width: 768px) {
+      .card {
+        padding: 1.5em;
+      }
+
+      h1 {
+        font-size: 2em;
+      }
+
+      p {
+        font-size: 1.2em;
+      }
+    }
+
+    @media (max-width: 480px) {
+      h1 {
+        font-size: 1.6em;
+      }
+
+      p {
+        font-size: 1em;
+      }
+
+      .avatar {
+        width: 100px;
+      }
     }
   </style>
 </head>
 <body>
   <div class="card">
-    <img src="https://i.imgur.com/pKfzoj3.gif" alt="西螺大橋" class="avatar">
+    <img src="https://i.imgur.com/jt8HojP.jpg" alt="西螺大橋" class="avatar"> <!-- 西螺大橋圖片 -->
     <h1>歡迎來到雲林縣西螺鎮</h1>
     <p>🌉 西螺大橋、醬油文化、歷史風情的交匯地</p>
     <p>📍 位於台灣雲林中部，濁水溪旁的重要市鎮</p>
