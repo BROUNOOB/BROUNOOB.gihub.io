@@ -91,7 +91,7 @@
 </head>
 <body>
   <div class="card">
-    <img src="https://i.imgur.com/jt8HojP.jpg" alt="西螺大橋" class="avatar"> <!-- https://i.imgur.com/jt8HojP.jpg -->
+    <img src="https://i.imgur.com/jt8HojP.jpg" alt="西螺大橋" class="avatar"> <!-- https://your-github-repo-url/your-image.jpg' -->
     <h1>歡迎來到雲林縣西螺鎮</h1>
     <p>🌉 西螺大橋、醬油文化、歷史風情的交匯地</p>
     <p>📍 位於台灣雲林中部，濁水溪旁的重要市鎮</p>
