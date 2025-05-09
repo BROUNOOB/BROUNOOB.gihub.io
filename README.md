@@ -9,7 +9,7 @@
       margin: 0;
       padding: 0;
       font-family: 'Noto Sans TC', sans-serif;
-      background-image: url('https://i.imgur.com/hZSzUkB.jpg'); /* 可替換成西螺鎮背景圖 */
+      background-image: url('https://i.imgur.com/hZSzUkB.jpg'); /* <img src="https://i.imgur.com/jt8HojP.jpg" alt="西螺大橋" class="avatar"> */
       background-size: cover;
       background-position: center;
       color: white;
