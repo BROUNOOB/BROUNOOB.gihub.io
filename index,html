@@ -10,7 +10,7 @@
       margin: 0;
       padding: 0;
       font-family: 'Noto Sans TC', sans-serif;
-      background-image: url('https://i.imgur.com/hZSzUkB.jpg'); /* 可替換成西螺鎮背景圖 */
+      background-image: url('xliuo.jfif'); /* xliuo.jfif */
       background-size: cover;
       background-position: center;
       color: white;
