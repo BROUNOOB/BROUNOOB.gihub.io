@@ -9,7 +9,7 @@
       margin: 0;
       padding: 0;
       font-family: 'Noto Sans TC', sans-serif;
-      background-image: url('https://i.imgur.com/jt8HojP.jpg'); /* 西螺大橋圖片 */
+      background-image: url('https://i.imgur.com/jt8HojP.jpg'); /* https://i.imgur.com/jt8HojP.jpg */
       background-size: cover;
       background-position: center;
       color: white;
@@ -91,7 +91,7 @@
 </head>
 <body>
   <div class="card">
-    <img src="https://i.imgur.com/jt8HojP.jpg" alt="西螺大橋" class="avatar"> <!-- 西螺大橋圖片 -->
+    <img src="https://i.imgur.com/jt8HojP.jpg" alt="西螺大橋" class="avatar"> <!-- https://i.imgur.com/jt8HojP.jpg -->
     <h1>歡迎來到雲林縣西螺鎮</h1>
     <p>🌉 西螺大橋、醬油文化、歷史風情的交匯地</p>
     <p>📍 位於台灣雲林中部，濁水溪旁的重要市鎮</p>
