@@ -1,17 +1,16 @@
 <!DOCTYPE html>
 <html lang="zh-Hant">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>劉清松的動漫世界</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>雲林縣西螺鎮介紹</title>
   <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@700&display=swap" rel="stylesheet">
   <style>
     body {
       margin: 0;
       padding: 0;
       font-family: 'Noto Sans TC', sans-serif;
-      background-image: url('https://i.imgur.com/5RHR6Ku.jpg'); /* ![image](https://github.com/user-attachments/assets/90a854fc-ac36-4467-9585-b825776d160b)
- */
+      background-image: url('https://i.imgur.com/hZSzUkB.jpg'); /* 可替換成西螺鎮背景圖 */
       background-size: cover;
       background-position: center;
       color: white;
@@ -24,21 +23,21 @@
       text-align: center;
     }
 
+    .card {
+      background-color: rgba(0, 0, 0, 0.5);
+      padding: 2em;
+      border-radius: 15px;
+      max-width: 600px;
+    }
+
     h1 {
-      font-size: 3em;
+      font-size: 2.8em;
       margin: 0.5em 0;
     }
 
     p {
       font-size: 1.4em;
       margin-bottom: 1em;
-    }
-
-    .card {
-      background-color: rgba(0, 0, 0, 0.5);
-      padding: 2em;
-      border-radius: 15px;
-      max-width: 600px;
     }
 
     .avatar {
@@ -57,16 +56,16 @@
 </head>
 <body>
   <div class="card">
-    <!-- ![image](https://github.com/user-attachments/assets/b348ef71-83e8-4c28-ac9a-8d10e2593fed)
- -->
-    <img src="https://i.imgur.com/C4dLP02.gif" alt="動漫頭像" class="avatar">
-    <h1>你好，我是劉清松</h1>
-    <p>🎌 熱愛動漫的前端開發者 / 創作者</p>
-    <p>📺 最喜歡的動畫：《實教》、《棒球大聯盟》</p>
-    <p>🔗 <a href="https://github.com/yourusername" target="_blank">我的 GitHub</a></p>
+    <img src="https://i.imgur.com/pKfzoj3.gif" alt="西螺大橋" class="avatar">
+    <h1>歡迎來到雲林縣西螺鎮</h1>
+    <p>🌉 西螺大橋、醬油文化、歷史風情的交匯地</p>
+    <p>📍 位於台灣雲林中部，濁水溪旁的重要市鎮</p>
+    <p>🔗 <a href="https://github.com/yourusername" target="_blank">由 GitHub 網頁托管</a></p>
   </div>
 </body>
 </html>
+
+      
 
 
 
